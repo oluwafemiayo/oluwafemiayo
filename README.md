@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwafemi
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in cloud computing, Software development and DevOps Practice.
 - 🌱 I’m currently learning and never stopping
 - 💞️ I’m looking to collaborate on mind blowing projects
 
